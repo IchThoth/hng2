@@ -1,7 +1,7 @@
 
 ## REST API THAT PERFORMS CRUD OPERATIONS
     
-
+check here for uml diagram [Here](https://drive.google.com/file/d/1q98Tyrfp2hqp0kkQIzeylbvRfDHTeQkt/view?usp=drive_link)
  
 
 ## Features
@@ -17,7 +17,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/ichthoth/hngstage_2
+  git clone https://github.com/ichthoth/hng2
 ```
 
 Go to the project directory
