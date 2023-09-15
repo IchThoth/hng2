@@ -30,7 +30,7 @@ This endpoint is used to create a person. It accepts the following parameters:
 Request body:
 
   {
-    "name": "Ikpia Emmanuel",
+    "name": "Ichthoh",
   }
 ```
 
@@ -40,7 +40,7 @@ Request body:
 {
     "message": "person added successfully!",
     "status": {
-        "name": "Ikpia Emmanuel",
+        "name": "Ichthoth",
         "_id": "65020eb0373824f53cdd1b76",
         "__v": 0
     }
@@ -66,7 +66,7 @@ This endpoint is used to fetch the detials of the person or any person in the da
 
 {
     "_id": "65020eb0373824f53cdd1b76",
-    "name": "Ikpia Emmanuel",
+    "name": "Ichthoth",
     "__v": 0
 }
 
@@ -86,7 +86,7 @@ This endpoint is used to update the person or any person in the database:
   Request body:
 
 {
-    "name": "Victor John"
+    "name": "janet"
 }
 
 ```
@@ -98,7 +98,7 @@ This endpoint is used to update the person or any person in the database:
     "message": "person updated successfully!",
     "status": {
         "_id": "65020eb0373824f53cdd1b76",
-        "name": "Victor John",
+        "name": "janet",
         "__v": 0
     }
 }
@@ -127,13 +127,13 @@ person with id 65020eb0373824f53cdd1b76 is now deleted
 Clone the project
 
 ```bash
-  git clone https://github.com/Ikpia/stage_2
+  git clone https://github.com/Ichthoth/hng2
 ```
 
 Go to the project directory
 
 ```bash
-  cd stage_2
+  cd hng2
 ```
 
 Install dependencies
@@ -164,15 +164,11 @@ Test the endpoints
 ```
 
 
-## Authors
-
-- [Emmanuel](https://www.github.com/Ikpia)
-
 
 ## Tech Stack
 **Server:** Node js, Express js, mongoose.
 
 **Database:** Mongodb
 
-**Testing Endpoints:** Postman
+**Test:** Postman
 
