@@ -1,5 +1,5 @@
 
-## REST API THAT PERFORMS CRUD OPERATIONS
+## REST API CRUD
     
 check here for uml diagram [Here](https://drive.google.com/file/d/1q98Tyrfp2hqp0kkQIzeylbvRfDHTeQkt/view?usp=drive_link)
  
@@ -23,7 +23,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd stage_2
+  cd hng2
 ```
 
 Install dependencies
